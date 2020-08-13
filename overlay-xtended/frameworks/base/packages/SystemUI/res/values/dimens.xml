@@ -20,4 +20,11 @@
     <dimen name="config_customCutoutTopHeight">240.0px</dimen>
     <dimen name="config_customCutoutBottomWidth">240.0px</dimen>
     <dimen name="config_customCutoutBottomHeight">240.0px</dimen>
+
+    <!-- Margin on the left side of the carrier text on Keyguard --> 
+    <dimen name="keyguard_carrier_text_margin">12dp</dimen>
+
+    <!-- Margin on the right side of the system icon group on Keyguard. -->
+    <dimen name="system_icons_keyguard_padding_end">9dp</dimen>
+
 </resources>
