@@ -13,5 +13,10 @@
     "repository"  : "Ashutosh-s-Test-Dumpster/vendor_oneplus",
     "target_path" : "vendor/oneplus",
     "branch"      : "ten"
+  },
+  {
+    "repository"  : "Ashutosh-s-Test-Dumpster/device_oneplus_common",
+    "target_path" : "device/oneplus/common",
+    "branch"      : "ten"
   }
 ]
